@@ -12,6 +12,9 @@ Frappe v15.92.0
 
 ERPNext v15.92.3
 
+Pour mettre à jour les versions:
+bench switch-to-branch v15.92.0 frappe erpnext && bench update --patch
+
 🔹 Étapes d’installation
 1. Cloner le dépôt
    
