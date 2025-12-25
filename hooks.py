@@ -1,7 +1,7 @@
 app_name = "gestion_financiere"
-app_title = "Gestion Financière"
+app_title = "Gestion Financiere"
 app_publisher = "Cellule Developpement UMMTO"
-app_description = "Application de gestion financière universitaire basée sur ERPNext"
+app_description = "Application de gestion financiere universitaire basee sur ERPNext"
 app_email = "systeme@ummto.dz"
 app_license = "mit"
 
